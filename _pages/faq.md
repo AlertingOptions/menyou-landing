@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Frequently Asked Questions
+title: FAQs
 include_in_header: true
 ---
