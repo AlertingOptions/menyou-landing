@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Grocery List
     description                           : A grocery list will be generated specific to your meals to ensure you have everything you need to make our delicious meals.
-    fontawesome_icon_name                 : bag-shopping
+    fontawesome_icon_name                 : "bag-shopping"
 
   - title                                 : Prep meals step by step
     description                           : Simple and concise step by step instructions will appear on your device to help you easily prepare your meals. Everything you need for each step will be visible on the screen.
@@ -62,7 +62,7 @@ features                                  :
 
   - title                                 : Family Meal Planning Made Easy
     description                           : Collaborate and share meal plans with your family hassle-free.
-    fontawesome_icon_name                 : people-roof
+    fontawesome_icon_name                 : "people-roof"
 
 
 
